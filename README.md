@@ -2,6 +2,8 @@
 
 A mystical fortune telling app with a witchy aesthetic. Peer into the darkness and find your truth!
 
+![The Black Cat's Eye Demo](demo.gif)
+
 ## ✨ Features
 
 - 🔮 **Crystal Ball** - Scry the mists for detailed fortunes with spirit guides, elements, and moon phases
