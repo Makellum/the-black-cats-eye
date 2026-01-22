@@ -28,7 +28,7 @@ npm install
 npm run dev
 ```
 
-4. Open the localhost URL shown in your terminal.
+4. Open http://localhost:5173 in your browser.
 
 ## 🛠️ Tech Stack
 
